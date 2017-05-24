@@ -1,0 +1,71 @@
+#style-switcher h2 a {
+    background: #3065B5 none repeat scroll 0 0
+}
+
+
+
+.menu-bg .mainmenu .navbar-nav li a:hover,
+.slider-control,
+.service-icon i,
+.single-project-complete h2,
+.testi-name h2,
+.pricing-header i,
+.plan-price p,
+.contact-icon i,
+.footer-social-link ul li a,
+.slider-control:hover,
+.mainmenu .navbar-nav li a:hover, a.comment-link, .single-blog h2 a:hover {
+    color: #3065B5;
+}
+
+a.slide-btn,
+a.read-more,
+.call-to-area-text a,
+a.plan-more,
+.contact-form input[type="submit"],
+.owl-theme .owl-controls .owl-page span {
+    border: 1px solid #3065B5;
+    background-color: #3065B5;
+}
+
+.section-title h2::before,
+.scrollup,
+.dot1,
+.carousel-indicators li,
+a.slide-btn.other-btn:hover,
+.skill-text h2::before,
+.progress-bar > span,
+.team-description,
+.call-to-action-small-area,
+.contact-details-list h2::before,
+.blog-area .owl-theme .owl-controls .owl-page span {
+    background: #3065B5;
+}
+
+.pricing-box:hover a.plan-more,
+a.read-more:hover,
+.call-to-area-text a:hover,
+a.read-more:hover,
+.contact-form input[type="submit"]:hover,
+a.slide-btn:hover {
+    border: 1px solid #3065B5;
+}
+
+.form-control:focus {
+    border-color: #3065B5;
+}
+
+.video-area-text i {
+    border: 1px solid #3065B5;
+    color: #3065B5;
+}
+
+figure.effect-bubba figcaption::before {
+    border-top: 1px solid #3065B5;
+    border-bottom: 1px solid #3065B5;
+}
+
+figure.effect-bubba figcaption::after {
+    border-right: 1px solid #3065B5;
+    border-left: 1px solid #3065B5;
+}
